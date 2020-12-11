@@ -1,0 +1,24 @@
+# Dependency directory
+node_modules
+dist
+
+# Logs
+logs
+npm-debug.log
+
+# Editors
+.vscode
+
+# Tests
+lib-cov
+coverage
+
+# Git files
+README.md
+LICENSE
+.git
+
+# User data
+.env
+.editorconfig
+.aws
